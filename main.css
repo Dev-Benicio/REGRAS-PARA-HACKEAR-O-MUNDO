@@ -1,0 +1,29 @@
+
+    p {
+        color: #2afd00;
+        font-size: 220%;
+        font-weight: bold;
+    }
+
+    h1 {
+        color: rgb(243, 240, 240);
+        font-size: 330%;
+    }
+    
+    #inst {
+        color: #8a2be2;
+    }
+
+    body {
+        background-color: black;
+    }
+
+    .container {
+        display: flex;
+        align-items: center;
+    }
+
+    #txt_branco {
+        color: aliceblue;
+    }
+
